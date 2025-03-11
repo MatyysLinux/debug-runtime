@@ -4,3 +4,4 @@
 ### Extract to folder then execute run.bat and set your nickname and skin.
 ### Connect to any server that have "online-mode=false"
 ### Use Resource Packs and Shaders trhu OptiFine
+## Some servers may not work
